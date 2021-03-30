@@ -1,3 +1,5 @@
+# Note: the Cosmos Hub and Cosmos SDK has been upgraded, making parts of this information no longer relevant. Please see the more actively maintained governance repo here: https://github.com/cosmos/governance
+
 # Cosmos Hub 3 and the Community Pool
 The Cosmos Hub 3 launched with community-spend capabilities on December 11, 2019, effectively unlocking the potential for token-holders to vote to approve spending from the Community Pool. **This documentation is in active development, so please seek feedback and take care when using this information.** [Discuss its development here](https://forum.cosmos.network/t/gwg-community-spend-best-practices/3240).
 
